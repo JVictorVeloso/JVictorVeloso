@@ -1,23 +1,38 @@
-### Olá, meu nome é Victor 👋
-Estudante de Engenheria de Software
+# Olá, meu nome é Victor  
 
-- 👨🏼‍💻 Apaixado por aprender
-- 💻 Atualmente mais focado em:
-<div display="inline">
-  &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-</div>  
+🎓 Estudante de **Engenharia de Software**  
+💡 Interesse por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas  
+🔎 Atualmente focado em: **Python, MySQL, JavaScript, HTML5 e CSS3**
 
-##
-<p>Você também me encontra em:</p>
-<a href="seu-link-do-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
-<a href="seu-link-do-instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
+---
 
-##
+## Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 
-### Você também pode gostar:
-- [Projeto-LightDark-Links](https://jvictorveloso.github.io/Projeto-LightDark-Links/)
-- [Projeto-Meta-Buddy](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)
+---
+
+## 📌 Projetos em Destaque
+
+🔗 [**Projeto LightDark Links**](https://jvictorveloso.github.io/Projeto-LightDark-Links/)  
+Interface de links com modo claro/escuro, explorando HTML, CSS e JavaScript.
+
+🔗 [**Projeto Meta Buddy**](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)  
+  Assistente inteligente de jogos que responde perguntas sobre builds, estratégias e metas atualizadas usando IA integrada com a API Gemini.
+
+
+---
+
+## 🌎 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)  
+📧 **victorveloso.rv@gmail.com**
+
+---
+
+⭐ Se gostou de algum projeto, não esqueça de deixar um **star**!
