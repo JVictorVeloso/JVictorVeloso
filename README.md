@@ -1,4 +1,4 @@
-# Olá, meu nome é Victor  
+# Olá, meu nome é Victor Veloso  
 
 🎓 Estudante de **Engenharia de Software**  
 💡 Interesse por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas  
