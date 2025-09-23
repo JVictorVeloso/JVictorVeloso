@@ -12,11 +12,9 @@ Estudante de Engenheria de Software
 </div>  
 
 ##
-### Você também me encontra em:
-
-<a href="https://www.linkedin.com/in/jvictorveloso/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/jvictor_veloso/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
-
+<p>Você também me encontra em:</p>
+<a href="seu-link-do-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
+<a href="seu-link-do-instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
 
 ##
 
