@@ -14,13 +14,8 @@ Estudante de Engenheria de Software
 ##
 ### Você também me encontra em:
 
-&nbsp;<a href="https://www.linkedin.com/in/jvictorveloso/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-
-&nbsp;<a href="https://www.instagram.com/jvictor_veloso/">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a> &nbsp;
+<a href="https://www.linkedin.com/in/jvictorveloso/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
+<a href="https://www.instagram.com/jvictor_veloso/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram"></a>
 
 
 ##
