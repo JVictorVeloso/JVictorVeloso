@@ -33,6 +33,4 @@ Interface de links com modo claro/escuro, explorando HTML, CSS e JavaScript.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)  
 📧 **victorveloso.rv@gmail.com**
 
----
 
-⭐ Se gostou de algum projeto, não esqueça de deixar um **star**!
