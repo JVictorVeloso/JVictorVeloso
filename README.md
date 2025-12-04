@@ -25,6 +25,9 @@ Interface de links com modo claro/escuro, explorando HTML, CSS e JavaScript.
 🔗 [**Projeto Meta Buddy**](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)  
   Assistente inteligente de jogos que responde perguntas sobre builds, estratégias e metas atualizadas usando IA integrada com a API Gemini.
 
+🔗 [**Projeto Ecopatas**](https://jvictorveloso.github.io/ecopatas-projeto/)  
+  Plataforma de conexão para resgate e adoção de animais. O projeto facilita o encontro entre pets perdidos e novos lares, com design moderno, responsivo e áreas dedicadas a apoio e doação. Feito com HTML, CSS e JS.
+
 
 ---
 
