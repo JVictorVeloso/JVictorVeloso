@@ -1,24 +1,84 @@
-# Olá, meu nome é Victor Veloso  
+# Olá, eu sou Victor Veloso 👋  
 
-🎓 Estudante de **Engenharia de Software**  
-💡 Interesse por tecnologia, aprendizado contínuo e desenvolvimento de soluções criativas  
-🔎 Atualmente focado em: **Python, MySQL, JavaScript, HTML5 e CSS3**
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Full Stack em formação, com experiência prática na construção de aplicações SaaS com integração de Inteligência Artificial.
 
 ---
 
-## Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+## 🚀 Experiência com
+
+• Front-end: Next.js (App Router), React e TypeScript  
+• Estilização: Tailwind CSS e shadcn/ui  
+• Back-end: Server Actions e Supabase (PostgreSQL)  
+• Autenticação: Supabase Auth  
+• Segurança: Row Level Security (RLS)  
+• Integração com APIs de IA: OpenAI, Anthropic e Google Gemini  
+• Deploy em produção com Vercel  
+
+---
+
+# 🚀 Projeto Principal
+
+## 🔥 ControlAI  
+🔗 https://control-ai-v2.vercel.app/login  
+
+Aplicação SaaS com integração multi-IA, autenticação segura e controle de acesso por usuário utilizando Row Level Security (RLS).
+
+### 🧩 Destaques Técnicos:
+- Arquitetura full stack com Next.js (App Router)
+- Server Actions para comunicação segura com o back-end
+- Supabase (PostgreSQL) com políticas de segurança (RLS)
+- Sistema de autenticação baseado em sessão
+- Integração com múltiplas APIs de IA
+- Deploy em produção
+
+---
+
+# 🧠 Tecnologias & Stack
+
+### 🚀 Front-end
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+### 🧩 UI
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=vercel&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide-000000?logo=lucide&logoColor=white)
+
+### 🔙 Back-end & Banco
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+### 🤖 Integração com IA
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+
+### ☁️ Deploy & Versionamento
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 
 ---
 
+# 📌 Outros Projetos
+
+## 🔗 Meta Buddy  
+https://jvictorveloso.github.io/Projeto-Meta-Buddy/  
+Assistente inteligente de jogos com integração à API Gemini.
+
+## 🔗 LightDark Links  
+https://jvictorveloso.github.io/Projeto-LightDark-Links/  
+Interface com alternância de tema (Dark/Light Mode), focada em manipulação de DOM e responsividade.
+
+## 🔗 Ecopatas  
+https://jvictorveloso.github.io/ecopatas-projeto/  
+Plataforma web para conexão entre ONGs, protetores e adotantes de animais.
+
 ---
-### 📊 Minhas Estatísticas
+
+## 📊 Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVictorVeloso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -30,26 +90,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVictorVeloso&theme=radical&hide_border=true" />
 </div>
----
-
-
-## 📌 Projetos em Destaque
-
-🔗 [**Projeto LightDark Links**](https://jvictorveloso.github.io/Projeto-LightDark-Links/)  
-Interface de links com modo claro/escuro, explorando HTML, CSS e JavaScript.
-
-🔗 [**Projeto Meta Buddy**](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)  
-  Assistente inteligente de jogos que responde perguntas sobre builds, estratégias e metas atualizadas usando IA integrada com a API Gemini.
-
-🔗 [**Projeto Ecopatas**](https://jvictorveloso.github.io/ecopatas-projeto/)  
-  Plataforma de conexão para resgate e adoção de animais. O projeto facilita o encontro entre pets perdidos e novos lares, com design moderno, responsivo e áreas dedicadas a apoio e doação. Feito com HTML, CSS e JS.
-
 
 ---
 
-## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/)  
-📧 **victorveloso.rv@gmail.com**
+# 🌎 Contato
 
-
+[LinkedIn](https://www.linkedin.com/in/jvictorveloso/)  
+📧 victorveloso.rv@gmail.com
