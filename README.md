@@ -17,11 +17,13 @@
 
 ---
 
-## 🧠 Stack
+## 🧠 Stacks
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -30,10 +32,9 @@
 
 ---
 
-# 🚀 Projeto Principal
+# 🚀 Projetos em Destaque
 
-## 🔥 ControlAI  
-🔗 https://control-ai-v2.vercel.app/login  
+## [🔗 ControlAI](https://control-ai-v2.vercel.app/login)
 
 Aplicação SaaS com integração multi-IA, autenticação segura e controle de acesso por usuário utilizando Row Level Security (RLS).
 
@@ -45,37 +46,23 @@ Aplicação SaaS com integração multi-IA, autenticação segura e controle de 
 - Integração com múltiplas APIs de IA
 - Deploy em produção
 
----
+## [🔗 Meta Buddy](https://jvictorveloso.github.io/Projeto-Meta-Buddy/)
 
-# 📌 Outros Projetos
+Assistente inteligente para jogos com integração a API Gemini.  
+JavaScript • Consumo de API • Manipulação de DOM
 
-## 🔗 Meta Buddy  
-https://jvictorveloso.github.io/Projeto-Meta-Buddy/  
+## [🔗 LightDark Links](https://jvictorveloso.github.io/Projeto-LightDark-Links/)
 
-## 🔗 LightDark Links  
-https://jvictorveloso.github.io/Projeto-LightDark-Links/  
+Interface com alternância entre modo claro e escuro e persistência de tema.  
+JavaScript • DOM • localStorage • CSS Responsivo
 
-## 🔗 Ecopatas  
-https://jvictorveloso.github.io/ecopatas-projeto/  
+## [🔗 Ecopatas](https://jvictorveloso.github.io/ecopatas-projeto/)
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVictorVeloso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictorVeloso&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JVictorVeloso&theme=radical&hide_border=true" />
-</div>
+Plataforma web para adoção e conexão entre ONGs e adotantes.  
+HTML • CSS • JavaScript • Layout Responsivo
 
 ---
+# 🌎 Vamos nos conectar!
 
-# 🌎 Contato
-
-[LinkedIn](https://www.linkedin.com/in/jvictorveloso/)  
-📧 victorveloso.rv@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictorveloso/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorveloso.rv@gmail.com)
